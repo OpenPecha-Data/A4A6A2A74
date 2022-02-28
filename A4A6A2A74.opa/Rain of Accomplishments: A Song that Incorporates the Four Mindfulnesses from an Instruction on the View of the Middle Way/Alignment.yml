@@ -1,0 +1,31 @@
+segment_sources:
+  P2B1AA309:
+    type: origin_type
+    relation: translation
+    language: en
+  P59BEF976:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d626d8f3cd90481dae57bf34be4663f7:
+    P2B1AA309: d5e3a37c05d04a5880a1820bf4415f15
+    P59BEF976: 778ef1a079c7453bbd2bdcd3bd443e16
+  3dd9e71fef0c49bebb536b055702ccc6:
+    P2B1AA309: 62a891034af6452eb0ddc94c70d2c7ff
+    P59BEF976: 8c1ae61e4de947c0b04a0caaf8572409
+  729f7b5c106848f89af6a3c66814b602:
+    P2B1AA309: 403f24a5801144fa98913a5d02844b19
+    P59BEF976: dddc85b5d9364257a0c6f0739c74b791
+  ac5bfe5c054140ffbf5c3234629dd7b9:
+    P2B1AA309: fabcc2c9453a4f1a9e07d714eb112756
+    P59BEF976: 8818644a96fa4372a8592c793adbeb8d
+  225c6c4c62164ebbb64fa2f168e5f1a7:
+    P2B1AA309: b90312aa82934119a272eea56bfbf5c7
+    P59BEF976: 53d76fd7d14445bea2738a3ed294a2e6
+  a41e7510ddcb4c5b851f215641c001af:
+    P2B1AA309: 626637e5ca47454ebc8c324c961ec799
+    P59BEF976: b4c09f37139844e3aa71cac8c1483312
+  6b022fbe5ba147a7a3b68bdc5d6fb4d3:
+    P2B1AA309: 05819298e1f24fddbbfba98ce1ba50dd
+    P59BEF976: 85aba11044ce4f16999327d99ff61c71
